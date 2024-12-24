@@ -1,0 +1,21 @@
+
+.navbar{
+    border-radius: 15px;
+    padding: 1%;
+    background-color: rgba(90, 80, 80, 0.884);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 4%;
+}
+.navbar h1{
+    font-size: 1.5rem;
+}
+.navbar a{
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(48, 34, 34);
+    text-decoration: none;
+}
